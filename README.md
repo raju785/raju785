@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raju785
 - 👀 I’m interested in Backend devolepment and Web devolepment using django.
-- 🌱 I’m currently learning   React.
+- 🌱 I’m currently learning Javascript and React.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me rrraju1212@gmail.com
 
